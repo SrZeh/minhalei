@@ -15,7 +15,7 @@
 
 🔗 _*url github:*_ https://github.com/SrZeh/minhalei.git
 
-🛬 _*url landpage:*_
+🛬 _*url landpage:*_ https://srzeh.github.io/minhalei/
 
 🤝 _*url Modelo Negócio (imagem):*_
 🗓️ _*url Product Backlog:*_
