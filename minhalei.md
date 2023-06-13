@@ -5,7 +5,7 @@
 
 🙂 _*Nicho:*_ Todo cidadão que tem uma idéia/projeto de lei ou que quer participar ativamente com sua assinatura para uma nova lei.
 
-🎁 _*Proposta de Valor:*_ Concentrar a divulgação das iéias e as assinaturas em um único lugar e dar voz ao povo.
+🎁 _*Proposta de Valor:*_ Concentrar a divulgação das idéias e as assinaturas em um único lugar e dar voz ao povo.
 
 🧑‍💻👩‍💻 _*Equipe:*_ José Gabriel, Filipe Polnow e Guilherme Antunes.
 
